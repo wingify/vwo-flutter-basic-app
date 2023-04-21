@@ -1,0 +1,39 @@
+PODS:
+  - Flutter (1.0.0)
+  - Socket.IO-Client-Swift (13.4.0):
+    - Starscream (~> 3.0.2)
+  - Starscream (3.0.6)
+  - VWO (2.7.1):
+    - VWO/All (= 2.7.1)
+  - VWO/All (2.7.1):
+    - Socket.IO-Client-Swift (~> 13.1)
+  - vwo_flutter (1.0.1):
+    - Flutter
+    - VWO (~> 2.7.1)
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - vwo_flutter (from `.symlinks/plugins/vwo_flutter/ios`)
+
+SPEC REPOS:
+  trunk:
+    - Socket.IO-Client-Swift
+    - Starscream
+    - VWO
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  vwo_flutter:
+    :path: ".symlinks/plugins/vwo_flutter/ios"
+
+SPEC CHECKSUMS:
+  Flutter: f04841e97a9d0b0a8025694d0796dd46242b2854
+  Socket.IO-Client-Swift: 2b2720f14c92ff1237ced09bc2f2da2022624fee
+  Starscream: ef3ece99d765eeccb67de105bfa143f929026cf5
+  VWO: f7cfcc0df231c378eed8d8088d30babf456ccc9c
+  vwo_flutter: 4cff185c6a27aedb9f0cda88c387ccfbfcc1a924
+
+PODFILE CHECKSUM: ef19549a9bc3046e7bb7d2fab4d021637c0c58a3
+
+COCOAPODS: 1.11.3
