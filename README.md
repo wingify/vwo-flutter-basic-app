@@ -62,13 +62,6 @@ Once there, you can add a new Android/iOS App, and use the generated app key in 
 * Create and run campaigns.
 
 
-## Changelog
-Refer [CHANGELOG.md](https://github.com/wingify/vwo-flutter-sdk/blob/master/CHANGELOG.md)
-
-## Contributing
-
-Please go through our [contributing guidelines](https://github.com/wingify/vwo-flutter-sdk/blob/master/CONTRIBUTING.md)
-
 
 ## Code of Conduct
 
@@ -77,6 +70,6 @@ Please go through our [contributing guidelines](https://github.com/wingify/vwo-f
 
 ## License
 
-[Apache License, Version 2.0](https://github.com/wingify/vwo-flutter-sdk/blob/master/LICENSE)
+[Apache License, Version 2.0]( https://github.com/wingify/vwo-flutter-basic-app/blob/master/LICENSE)
 
 Copyright 2021 Wingify Software Pvt. Ltd.
