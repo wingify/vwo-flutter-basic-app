@@ -65,7 +65,7 @@ Once there, you can add a new Android/iOS App, and use the generated app key in 
 
 ## Code of Conduct
 
-[Code of Conduct](https://github.com/wingify/vwo-flutter-sdk/blob/master/CODE_OF_CONDUCT.md)
+[Code of Conduct](https://github.com/wingify/vwo-flutter-basic-app/blob/master/CODE_OF_CONDUCT.md)
 
 
 ## License
